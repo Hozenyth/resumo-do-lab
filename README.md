@@ -3,7 +3,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 <h1>Resumo Computação em nuvem com Azure.</h1>
 <p>No lab da DIO sobre computação em nuvem foi visto as funcionalidades da computação em nuvem as caracteristicas e os tipos de nuvem(pública, privada e hibrida) que é um modelo de serviço de TI acessado via Internet, com características como escalabilidade, modelo de pagamento conforme o uso e gerenciamento de infraestrutura pelo provedor. Também discutimos o CapEx, que são despesas de capital, representando investimentos em ativos de longa duração, como infraestrutura de TI. Conhecemos o Portal do Azure com os menus e recursos que podemos utilizar.</p>
-__________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________
 <h1>Resumo Benefícios da nuvem - Laboratório.</h1>
 <p>O SLA (Service Level Agreement) no Azure é um compromisso que a Microsoft estabelece com os clientes sobre os níveis de disponibilidade e desempenho dos serviços em nuvem oferecidos. Ele define garantias de tempo de atividade (uptime), como, por exemplo, 99.9% ou 99.99%, dependendo do serviço específico.
 
@@ -15,3 +15,8 @@ Variação por Serviço: Cada serviço do Azure, como máquinas virtuais, bancos
 Estratégias de Alta Disponibilidade: O uso de zonas de disponibilidade, regiões geográficas diferentes e arquiteturas distribuídas pode ajudar os clientes a atingir os níveis de SLA desejados.
 Importância para Planejamento: Compreender os SLAs é crucial para definir requisitos de continuidade de negócios e garantir que as aplicações críticas mantenham alta disponibilidade.
 Esses acordos ajudam as empresas a gerenciar riscos e assegurar que os serviços da nuvem atendam às expectativas de desempenho e confiabilidade.</p>
+
+_________________________________________________________________________________________________________________________________
+
+<h1>Tipo de Serviço em Nuvem</h1>
+<p>Máquinas virtuais (VMs) são ambientes computacionais emulados que funcionam como computadores independentes, executando sistemas operacionais e aplicativos. Elas são hospedadas em servidores físicos e compartilham os recursos de hardware, como CPU, memória e armazenamento, com outras VMs. No contexto da computação em nuvem, as VMs oferecem uma solução escalável e flexível para diversos tipos de necessidades de TI. No laboratório podemos verificar a forma que pe criada uma máquina virtual e perver os custos que iremos ter ao alterar o tipo de imagem. Vimos tbm a capacidade do banco de dados e como podemos estipular a quantidade de armazenamento do mesmo.</p>
